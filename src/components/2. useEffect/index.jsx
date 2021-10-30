@@ -1,12 +1,14 @@
 import React from "react";
 // import HookCounter from "./HookCounter";
-import MouseContainer from "./MouseContainer";
+// import MouseContainer from "./MouseContainer";
+import IntervalHookCounter from "./IntervalHookCounter";
 
 const index = () => {
   return (
     <>
       {/* <HookCounter /> */}
-      <MouseContainer />
+      {/* <MouseContainer /> */}
+      <IntervalHookCounter />
     </>
   );
 };
