@@ -1,10 +1,12 @@
 import React from "react";
-import HookCounter from "./HookCounter";
+// import HookCounter from "./HookCounter";
+import HookMouse from "./HookMouse";
 
 const index = () => {
   return (
     <>
-      <HookCounter />
+      {/* <HookCounter /> */}
+      <HookMouse />
     </>
   );
 };
