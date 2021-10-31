@@ -1,5 +1,5 @@
 import React from "react";
-import { UserContext, ChannelContext } from ".";
+import { UserContext } from ".";
 
 const ComponentF = () => {
   return (

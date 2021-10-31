@@ -8,7 +8,7 @@ const initialUserValue = {
 };
 
 const initialChannelValue = {
-  subsribe: 1000,
+  subscribe: 1000,
   like: 81000,
   comment: 18000,
 };
