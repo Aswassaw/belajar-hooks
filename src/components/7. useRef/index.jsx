@@ -1,12 +1,13 @@
-import React from 'react'
-import FocusInput from './FocusInput'
+import React from "react";
+// import FocusInput from './FocusInput'
+import HookTimer from "./HookTimer";
 
 const index = () => {
   return (
     <div>
-      <FocusInput />
+      <HookTimer />
     </div>
-  )
-}
+  );
+};
 
-export default index
+export default index;
