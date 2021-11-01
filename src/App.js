@@ -3,12 +3,13 @@ import "./App.css";
 // import Hook2 from "./components/2. useEffect";
 // import Hook3 from "./components/3. useContext";
 // import Hook4 from "./components/4. useReducer";
-import Hook5 from "./components/5. useCallback";
+// import Hook5 from "./components/5. useCallback";
+import Hook6 from './components/6. useMemo'
 
 function App() {
   return (
     <div className='App'>
-      <Hook5 />
+      <Hook6 />
     </div>
   );
 }
