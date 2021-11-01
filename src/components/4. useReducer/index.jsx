@@ -3,12 +3,13 @@ import React from "react";
 // import CounterTwo from "./CounterTwo";
 // import CounterThree from "./CounterThree";
 // import CounterFour from "./useContext + useReducer";
-import FetchingOne from "./FetchingOne";
+// import FetchingOne from "./FetchingOne";
+import FetchingTwo from "./FetchingTwo";
 
 const index = () => {
   return (
     <div>
-      <FetchingOne />
+      <FetchingTwo />
     </div>
   );
 };
