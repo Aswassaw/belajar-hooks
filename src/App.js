@@ -5,12 +5,13 @@ import "./App.css";
 // import Hook4 from "./components/4. useReducer";
 // import Hook5 from "./components/5. useCallback";
 // import Hook6 from './components/6. useMemo'
-import Hook7 from './components/7. useRef';
+// import Hook7 from './components/7. useRef';
+import Hook8 from './components/8. customHook';
 
 function App() {
   return (
     <div className='App'>
-      <Hook7 />
+      <Hook8 />
     </div>
   );
 }
